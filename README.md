@@ -1,4 +1,4 @@
-# Senitment Analysis
+# Sentiment Analysis
 
 This project conducts sentiment analysis on a dataset of Amazon product customer reviews, using spaCy and TextBlob, to return whether the review is positve, negative or neutral.
 
